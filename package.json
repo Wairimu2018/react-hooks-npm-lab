@@ -1,0 +1,26 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Trial",
+  "main": "yes",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wairimu2018/react-hooks-npm-lab.git"
+  },
+  "keywords": [
+    "Phase-2"
+  ],
+  "author": "Wairimu Kuria",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Wairimu2018/react-hooks-npm-lab/issues"
+  },
+  "homepage": "https://github.com/Wairimu2018/react-hooks-npm-lab#readme",
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "serve": "^14.0.1"
+  }
+}
